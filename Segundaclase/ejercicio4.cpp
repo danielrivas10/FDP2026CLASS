@@ -1,13 +1,9 @@
 #include <iostream>
 using namespace std;
 
-float main() {
-float a, b;
+int main ()
+{
 
 
-
-
-return 0; 
-
-
+    
 }
