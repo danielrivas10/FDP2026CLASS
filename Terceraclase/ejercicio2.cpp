@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int grade = 1;
+    int grade = 1; // Se pone 1 para quemar un dato
 
     // Solicita al usuario que ingrese la calificación
     cout << "Enter your grade (0 to 100): ";
